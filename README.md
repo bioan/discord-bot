@@ -8,3 +8,4 @@ Furthermore, a `.env` file with a `DISCORD_TOKEN=<application token>`is required
 Possibly look into a nicer way to edit messages, monitored channels, etc.
 Input could probably be handled through DMs by authorized users.
 Configuration should probably be done through a separate file.
+Handle players reacting with multiple roles.
